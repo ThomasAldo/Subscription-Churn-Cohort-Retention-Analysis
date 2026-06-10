@@ -1,0 +1,56 @@
+# Ignore large data files
+portfolio_subscription_master.csv
+rawtrain_v2.csv
+rawtransactions_v2.csv
+rawtransactions.csv
+transactions.csv
+transactions_v2.csv
+train_v2.csv
+
+# Ignore compressed files
+*.7z
+*.zip
+*.rar
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Ignore Jupyter cache
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Ignore Power BI cache
+.pbi_cache/
+
+# Ignore local config
+.env
+.env.local
+config_local.py
+
+# Ignore test outputs
+test_results/
+coverage/
+htmlcov/
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.log
