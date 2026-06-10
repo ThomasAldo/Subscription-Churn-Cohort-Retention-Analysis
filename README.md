@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:EE5A6F,100:C92A2A&height=200&section=header&text=Subscription%20Churn%20%26%20Retention%20Dashboard&fontSize=38&fontColor=ffffff&fontAlignY=55" alt="Subscription Churn & Retention Dashboard" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:EE5A6F,100:C92A2A&height=200&section=header&text=Subscription%20Churn%20And%20Retention%20Dashboard&fontSize=38&fontColor=ffffff&fontAlignY=55" alt="Subscription Churn and Retention Dashboard" />
 </p>
 
 <p align="center">
